@@ -16,6 +16,8 @@ Below is the data in it's regular CSV form. Note: I have removed the original co
 ### Beginnings
 To start this whole shebang off a quick and dirty wget is needed to get the file - "caf-investigations-od-2018.csv" from the interwebs onto my local machine. Once this was done, I wanted to take a quick look in excel just to see what the headers were and what the data initially was about. 
 
+In CS I previously used Wget for simple uses such as downloading a file onto a virtual machine and so on but I never really understood how useful it would be when it comes to archives and historical data. Imagine having thousands or millions of text files, wget can make this a breeze (a long breeze, but we take what we can get). I feel like those who use wget for small things fail to appreciate the beauty of it.  
+
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
