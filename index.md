@@ -1,6 +1,6 @@
-## My Quick Static Site
+## Digital History Exploration Exercise 
 
-This is a site I build with gh-pages. **Wow**
+Greggory Elton - 101038024
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
