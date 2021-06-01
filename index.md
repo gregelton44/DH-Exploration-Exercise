@@ -2,7 +2,7 @@
 
 Greggory Elton - 101038024
 
-# Investigation Statistics for the Canadian Armed Forces
+## Investigation Statistics for the Canadian Armed Forces
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
