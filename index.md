@@ -33,6 +33,8 @@ Next step in my process was to open the csv file in excel and poke around at the
 
 Taking a look at the raw data, I noticed right off the bat that the number of calls was trending upward meaning that each year from 2014 to 2019, there has been more crime or reported crime taking place. If we compare years 2014 to years 2019 we can see that close to 10,000 more calls were reported in 2019. 
 
+Some observations that I have come across when using Excel for data parsing and analyzing especially in the CSV format, is that sometimes the encoding can cause issues with software. For example, if I have french characters like an accented a, the enconding in excel seems to mess up that character. Because of this I was forced to remove the french column. Typically, you wouldn't want to modify the data as it sometimes cannot give you the true picture. 
+
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
