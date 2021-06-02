@@ -26,6 +26,13 @@ Finally I threw that CSV into Gephi and watched what happened to my screen! It w
 #### WGET 
 To kick things off, I needed to get the data stored on my system so I used the command `wget https://open.canada.ca/data/en/dataset/402358f9-2808-44f7-99b3-58f6f5f95b1f --limit-rate=100k` and made sure to specify the download rate should not exceed 100k, because we don't want to overwhelm the Government of Canada servers (they already can't handle much). 
 
+#### Excel
+Next step in my process was to open the csv file in excel and poke around at the data. This is when I noticed that there was an extra column that was in French that simply described the category of the reported crime. I removed this so that other programs like Gephi didn't think there was two sets of headers or categories. 
+
+![CAF](https://github.com/gregelton44/DH-Exploration-Exercise/blob/main/CAF.PNG?raw=true)
+
+Taking a look at the raw data, I noticed right off the bat that the number of calls was trending upward meaning that each year from 2014 to 2019, there has been more crime or reported crime taking place. If we compare years 2014 to years 2019 we can see that close to 10,000 more calls were reported in 2019. 
+
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
