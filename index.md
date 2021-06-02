@@ -67,4 +67,4 @@ These are just a few of them however the deeper you analyze the more specific an
 
 If there is more analysis that is done on this we could really gain an better understanding on why crimes take place amongst military personnel. This can also help support mental health services that the military so desperately needs. 
 
-
+It is important that this data is not manipulated or framed in a way the distorts the significance and impacts of doing this research as the resutls will be heavily skewed.
