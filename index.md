@@ -31,7 +31,7 @@ Next step in my process was to open the csv file in excel and poke around at the
 
 ![CAF](https://github.com/gregelton44/DH-Exploration-Exercise/blob/main/CAF.PNG?raw=true)
 
-Taking a look at the raw data, I noticed right off the bat that the number of calls was trending upward meaning that each year from 2014 to 2019, there has been more crime or reported crime taking place. If we compare years 2014 to years 2019 we can see that close to 10,000 more calls were reported in 2019. Crimes such as criminal harassment and Extortion seemed to plateau around 2015-2016 and fall back down in recent years. 
+Taking a look at the raw data, I noticed right off the bat that the number of calls was trending upward meaning that each year from 2014 to 2019, there has been more reports of crime taking place. If we compare years 2014 to years 2019 we can see that close to 10,000 more calls were reported in 2019. Crimes such as criminal harassment and Extortion seemed to plateau around 2015-2016 and fall back down in recent years. 
 
 Some observations that I have come across when using Excel for data parsing and analyzing especially in the CSV format, is that sometimes the encoding can cause issues with software. For example, if I have french characters like an accented a, the enconding in excel seems to mess up that character. Because of this I was forced to remove the french column. Typically, you wouldn't want to modify the data as it sometimes cannot give you the true picture. 
 
@@ -39,6 +39,17 @@ Next, I made a bar chart to visualize some of the data in order to see a clear p
 
 ![ExcelGraph](https://github.com/gregelton44/DH-Exploration-Exercise/blob/main/excelgraph.png?raw=true)
 
+This graph shows what was reported crimes were reported the most in 2014 - 2019. 
+
+
+#### Gephi
+
+I took my CSV that had been cleaned up and put it into Gephi. Now, being honest here I am a bit puzzled on how to read the graph that Gephi produced. 
+
+![Gehpi](https://github.com/gregelton44/DH-Exploration-Exercise/blob/main/gephi.PNG?raw=true) 
+
+You can see that there are arrows pointing at the bottom left hand corner as its area of focus. I am not truly sure what this means however I do believe that it is showing the relationship between the number of calls in relation to the different crimes. This would make sense because in order for there to be a crime reported, you would need to call. 
+Gephi is a very powerful tool and I haven't even touched a sliver of its potential but it is one of the technologies that I will continue to look into and get better at. 
 
 
 
