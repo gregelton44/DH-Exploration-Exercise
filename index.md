@@ -56,3 +56,15 @@ Honestly, I love github. It has saved me so much headache when trying to develop
 
 In fact GitHub pages is so helpful, I have used them at my work to document code and features that are being added.
 
+### Going Further
+This analysis can be greatly improved and filtered down to see relationships between minute details. For example, with more refinement and graphing we would be able to see the following indicators:
+
+  1. Are there more crimes being commited each year?
+  2. What are the nature of these crimes that are increasing? 
+  3. Does the military have to address internal issues that these crimes stem from? (Ex. Sexual Misconduct being overlooked, or not providing mental health resources)
+
+These are just a few of them however the deeper you analyze the more specific answers you will find. I really think that using the Gephi tool would definitley be able to show you a more in depth relation between this information. 
+
+If there is more analysis that is done on this we could really gain an better understanding on why crimes take place amongst military personnel. This can also help support mental health services that the military so desperately needs. 
+
+
