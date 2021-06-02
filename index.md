@@ -24,7 +24,7 @@ Finally I threw that CSV into Gephi and watched what happened to my screen! It w
 ### Analysis
 
 #### WGET 
-To kick things off, I needed to get the data stored on my system so I used the command `wget https://open.canada.ca/data/en/dataset/402358f9-2808-44f7-99b3-58f6f5f95b1f --limit-rate=100k` and made sure to specify the download rate should not exceed 100k, because we don't want to overwhelm the Government of Canada servers. 
+To kick things off, I needed to get the data stored on my system so I used the command `wget https://open.canada.ca/data/en/dataset/402358f9-2808-44f7-99b3-58f6f5f95b1f --limit-rate=100k` and made sure to specify the download rate should not exceed 100k, because we don't want to overwhelm the Government of Canada servers (they already can't handle much). 
 
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
