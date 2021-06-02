@@ -51,9 +51,8 @@ I took my CSV that had been cleaned up and put it into Gephi. Now, being honest 
 You can see that there are arrows pointing at the bottom left hand corner as its area of focus. I am not truly sure what this means however I do believe that it is showing the relationship between the number of calls in relation to the different crimes. This would make sense because in order for there to be a crime reported, you would need to call. 
 Gephi is a very powerful tool and I haven't even touched a sliver of its potential but it is one of the technologies that I will continue to look into and get better at. 
 
+#### Gitting Good with GitHub
+Honestly, I love github. It has saved me so much headache when trying to develop software especially part of a team project. Its version and revision history single handidly saved me from failing a second year course. But the code aspect of it is just one of the great benefits of GitHub. The most intriguing part of github that I learned in this class are the static pages and the great implementation it has with markdown. You can literally spin up a good looking and simple website in seconds, without the need for HTML, CSS, JS, etc. It makes the whole process a lot more easier especially for documentation. What you are reading right now has been made with a template provided by GitHub and some simple markdown written by me. 
 
+In fact GitHub pages is so helpful, I have used them at my work to document code and features that are being added.
 
-
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
-
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
