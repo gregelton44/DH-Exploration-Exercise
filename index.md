@@ -47,7 +47,9 @@ This graph shows what was reported crimes were reported the most in 2014 - 2019.
   <iframe style='width: 637px; height: 493px;' src='https://voyant-tools.org/tool/Cirrus/?visible=500&corpus=2cdb8c497e46151a825c47d290406638'></iframe>
 </figure>
 
+Interstingly taking a look at represenation above, we can see that the terms "Sexual" and "Assault" appear the most in the file. By using something like Voyant tools you can see where the military has the most compliants and what the nature of those compliants are. Ideally, if I was part of the military and saw this I would think "why is sex and assault related crimes the most common?, Do we need to look at our own policies and behaviours in the military to address these issues? and how can we support these victims?". 
 
+Data analysis and science can be so impactful, not just from the numbers but also what kind of social change can happen. 
 
 
 #### Gephi
@@ -81,4 +83,4 @@ It is important that this data is not manipulated or framed in a way the distort
 ### Reflection
 
 #### Learning Curve and Difficulties
-Overall I think this course tutorials and lab work has relatively smooth. For me, I felt right at home in the weekly work on 
+Overall I think this course tutorials and lab work has relatively smooth. For me, I felt right at home in the weekly work on Git, Wget, terminal/CMD and python as I have used these a lot in the past. What was new to me was more of the analysis tools such as R, Point Map, Voyant, and Gephi to name a few. I found these weren't to tricky to actually work with but I can more difficulty understanding what they were displaying. 
