@@ -83,4 +83,4 @@ It is important that this data is not manipulated or framed in a way the distort
 ### Reflection
 
 #### Learning Curve and Difficulties
-Overall I think this course tutorials and lab work has relatively smooth. For me, I felt right at home in the weekly work on Git, Wget, terminal/CMD and python as I have used these a lot in the past. What was new to me was more of the analysis tools such as R, Point Map, Voyant, and Gephi to name a few. I found these weren't to tricky to actually work with but I can more difficulty understanding what they were displaying. 
+Overall I think this course tutorials and lab work has relatively smooth. For me, I felt right at home in the weekly work on Git, Wget, terminal/CMD and python as I have used these a lot in the past. What was new to me was more of the analysis tools such as R, Point Map, Voyant, and Gephi to name a few. I found these weren't to tricky to actually work with but I can more difficulty understanding what they were displaying. I believe this is just to lack of experience with the actual data science aspect of the part. 
