@@ -24,7 +24,7 @@ Finally I threw that CSV into Gephi and watched what happened to my screen! It w
 ### Analysis
 
 #### WGET 
-To kick things off, I needed to get the data stored on my system so I used the command `wget https://open.canada.ca/data/en/dataset/402358f9-2808-44f7-99b3-58f6f5f95b1f --limit-rate=100k` and made sure to specify the download rate should not exceed 100k, because we don't want to overwhelm the Government of Canada servers (they already can't handle much). 
+To kick things off, I needed to get the data stored on my system so I used the command `wget https://open.canada.ca/data/en/dataset/402358f9-2808-44f7-99b3-58f6f5f95b1f --limit-rate=100k` and made sure to specify the download rate should not exceed 100k, because we don't want to overwhelm the Government of Canada servers (they already can't handle much). In this case, the data was already in a single CSV file but had it been in different archives or separated files, WGET would make downloading and archiving these files into a folder incredibly easy.
 
 #### Excel
 Next step in my process was to open the csv file in excel and poke around at the data. This is when I noticed that there was an extra column that was in French that simply described the category of the reported crime. I removed this so that other programs like Gephi didn't think there was two sets of headers or categories. 
@@ -68,3 +68,7 @@ These are just a few of them however the deeper you analyze the more specific an
 If there is more analysis that is done on this we could really gain an better understanding on why crimes take place amongst military personnel. This can also help support mental health services that the military so desperately needs. 
 
 It is important that this data is not manipulated or framed in a way the distorts the significance and impacts of doing this research as the resutls will be heavily skewed.
+
+
+### Reflection
+
