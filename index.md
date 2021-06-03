@@ -43,7 +43,7 @@ This graph shows what was reported crimes were reported the most in 2014 - 2019.
 
 
 #### Voyant Tools
-  !(VoyantTools](https://raw.githubusercontent.com/gregelton44/DH-Exploration-Exercise/e8d6eba745cb6d2ba138ef6caf165c87273548bf/download.svg)
+  ![VoyantTools](https://raw.githubusercontent.com/gregelton44/DH-Exploration-Exercise/e8d6eba745cb6d2ba138ef6caf165c87273548bf/download.svg)
 
 
 
