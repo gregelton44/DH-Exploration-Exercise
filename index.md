@@ -80,7 +80,15 @@ If there is more analysis that is done on this we could really gain an better un
 It is important that this data is not manipulated or framed in a way the distorts the significance and impacts of doing this research as the resutls will be heavily skewed.
 
 
-### Reflection
+### Reflection/Exit Ticket
 
 #### Learning Curve and Difficulties
 Overall I think this course tutorials and lab work has relatively smooth. For me, I felt right at home in the weekly work on Git, Wget, terminal/CMD and python as I have used these a lot in the past. What was new to me was more of the analysis tools such as R, Point Map, Voyant, and Gephi to name a few. I found these weren't to tricky to actually work with but I can more difficulty understanding what they were displaying. I believe this is just to lack of experience with the actual data science aspect of the part. 
+
+This excerise mostly panned out for in the sense where I wanted to analyze a random data set and the analysis was pretty clear. In another sense I did run into hiccups with Gephi as mentioned early. Overall I am pretty happy with the work that I did. 
+
+
+#### Before and After
+Coming into this course I was a bit cocky in the sense that I thought this was going to be very easy given my background, however it wasn't always the case. Yes some parts of the weekly work were easier to me then most however im sure a lot of others found the historical analysis part much easier that I did. This was often were I caught myself struggling. Not so much producing the work but thinking about it and telling a story with it. I do find now I am getting better at writing and analyzing technology in a historical manner and not just doing the tasks but also thinking about what they accomplish and mean. 
+
+#### 
