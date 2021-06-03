@@ -42,10 +42,9 @@ Next, I made a bar chart to visualize some of the data in order to see a clear p
 This graph shows what was reported crimes were reported the most in 2014 - 2019. 
 
 
-#### Voyant Tools 
-<figure class="video_container">
-  <iframe style='width: 637px; height: 493px;' src='https://voyant-tools.org/tool/Cirrus/?visible=500&corpus=2cdb8c497e46151a825c47d290406638'></iframe>
-</figure>
+#### Voyant Tools
+  !(VoyantTools](https://raw.githubusercontent.com/gregelton44/DH-Exploration-Exercise/e8d6eba745cb6d2ba138ef6caf165c87273548bf/download.svg)
+
 
 
 
